@@ -1,0 +1,8 @@
+{
+	"id": "e4c44270-61cc-4636-c771-1dcff9c5dcd8",
+	"host": "panel.mmdmksh.top",
+	"port": "2053",
+	"path": "/vless-cdn",
+	"serverName": "panel.mmdmksh.top",
+	"subnetsList": "https://github.com/koopichi/ocserv/blob/master/cf.local.iplist"
+}
